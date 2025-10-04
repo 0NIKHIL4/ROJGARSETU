@@ -40,7 +40,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              How KaamConnect Works
+              How ROJGARSETU Works
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Simple, efficient, and transparent process for both laborers and customers
@@ -140,7 +140,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose KaamConnect?
+              Why Choose ROJGARSETU?
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Fair, transparent, and efficient platform for everyone
@@ -182,7 +182,7 @@ const Home = () => {
             Ready to Get Started?
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join thousands of workers and customers who trust KaamConnect for their daily work needs
+            Join thousands of workers and customers who trust ROJGARSETU for their daily work needs
           </p>
           <Link 
             to="/register" 
